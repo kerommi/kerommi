@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**kerommi/kerommi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+      /`·.¸                          Elli Harris
+     /¸...¸`:·                       -------------------------
+ ¸.·´  ¸   `·.¸.·´)                  Rutgers University NB
+: © ):´;      ¸  {                   Computer Science '26 
+ `·.¸ `·  ¸.·´\`·¸)                  Hello! 안녕! 你好!
+     `\\´´\¸.·´                      Languages: Go, Python, C++, Java
+                                     Positions: Backend Engineering (Focus on Distributed Systems)
+                                     Hobby: Digital art, Programming, Making DJ mixes
+                                     Future Pursuits: Reach HSK6 in Chinese, learn to play piano, get better at writing, AI/ML.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+                                     Contacts
+                                     --------
+                                     twitter: https://x.com/[redacted]
+                                     linkedin: www.linkedin.com/in/ehh/
+                                     website: https://www.fawned.org/
