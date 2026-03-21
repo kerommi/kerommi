@@ -5,6 +5,7 @@
 : © ):´;      ¸  {                   Computer Science '26 
  `·.¸ `·  ¸.·´\`·¸)                  Hello! 안녕! 你好!
      `\\´´\¸.·´                      Languages: Go, Python, C++, Java
+                                     Frameworks: Kafka, Pyspark, React, Tailwind
                                      Positions: Backend Engineering (Focus on Distributed Systems)
                                      Hobby: Digital art, Programming, Making DJ mixes
                                      Future Pursuits: Reach HSK6 in Chinese, learn to play piano, get better at writing, AI/ML.
