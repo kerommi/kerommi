@@ -15,6 +15,6 @@
                                      Contacts
                                      --------
                                      twitter: https://x.com/[redacted]
-                                     linkedin: www.linkedin.com/in/ehh/
+                                     linkedin: www.linkedin.com/in/xx
                                      website: https://www.fawned.org/
 ```
