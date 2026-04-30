@@ -9,7 +9,7 @@
      `\\´´\¸.·´                      Languages: Go, Python, C++, Java
                                      Positions: Backend Engineering (Focus on Distributed Systems / Infra)
                                      Hobbies: Digital art, Programming, Making DJ mixes
-                                     Future Pursuits: HSK6 level Chinese, learn piano, write more, explore AI/ML.
+                                     Future Pursuits: TOPIK6 level Korean, learn piano, write more, explore AI/ML.
 
 
                                      Contacts
