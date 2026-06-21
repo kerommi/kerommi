@@ -3,8 +3,8 @@
 
       /`·.¸                          Elli Harris
      /¸...¸`:·                       -------------------------
- ¸.·´  ¸   `·.¸.·´)                  Rutgers University NB
-: © ):´;      ¸  {                   Computer Science '26 
+ ¸.·´  ¸   `·.¸.·´)                  Rutgers University
+: © ):´;      ¸  {                   CS + KR 
  `·.¸ `·  ¸.·´\`·¸)                  Hello! 안녕! 你好!
      `\\´´\¸.·´                      Languages: Go, Python, C++, Java
                                      Positions: Backend Engineering (Focus on Distributed Systems / Infra)
